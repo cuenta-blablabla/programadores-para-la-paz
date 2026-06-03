@@ -1,0 +1,10 @@
+Los productos como Git fueron creados pensando en la colaboración organizada entre múltiples
+personas. Dado que Internet es el medio predilecto para la distribución y divulgación de 
+software, los repositorios digitales representan una forma particular de participación 
+ciudadana, en la que la integridad de la información constituye uno de los principales 
+objetivos y cada participante es responsable de contribuir a su preservación.
+
+Participar en un proyecto de software colaborativo implica construir una comunidad con metas
+y valores claros, como el respeto y el diálogo; resolver problemas de manera eficiente
+teniendo en cuenta los intereses de sus integrantes; y comprender que el éxito del proyecto 
+depende, en gran medida, del trabajo en equipo de todas las personas involucradas.

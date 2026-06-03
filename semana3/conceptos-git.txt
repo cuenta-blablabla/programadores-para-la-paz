@@ -1,0 +1,17 @@
+Repositorio:
+
+Es un espacio donde se registran y organizan los archivos y cambios de un proyecto. Los repositorios
+normalmente permiten añadir, editar o eliminar contenido; jerarquizar y ordenar la información; 
+administrar el control de acceso; e importar o exportar datos.
+
+Commit:
+
+Es una operación utilizada en sistemas de control de versiones, como Git, que permite guardar un 
+registro de los cambios realizados en un proyecto. Para ejecutarla desde una interfaz de línea de 
+comandos, es común utilizar el comando git commit -m "mensaje del commit".
+
+Push:
+
+Es una operación utilizada en sistemas de control de versiones, como Git, que permite enviar los 
+cambios registrados mediante un commit desde un repositorio local hacia un repositorio remoto. Para 
+ejecutarla desde una interfaz de línea de comandos, es común utilizar el comando git push.

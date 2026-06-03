@@ -1,0 +1,12 @@
+Dar instrucciones a una computadora es una de las labores fundamentales del desarrollo de software.
+Utilizar la terminal consiste, en esencia, en comunicarse de forma directa con el sistema mediante
+comandos basados principalmente en palabras del inglés, idioma que históricamente ha predominado en
+la programación.
+
+Saber utilizar la terminal para navegar y organizar archivos dentro de un proyecto ofrece la 
+ventaja, muchas veces significativa, de reducir los niveles de abstracción presentes en las 
+interfaces gráficas. Las terminales suelen considerarse una de las herramientas de administración 
+más importantes en informática, ya que permiten ejecutar operaciones precisas y eficientes dentro 
+de un sistema, concentrándose en las tareas relevantes y evitando las distracciones propias de 
+otros elementos del sistema operativo.
+

@@ -1,0 +1,11 @@
+Mantener un registro de cambios en los proyectos de software ofrece numerosas ventajas. Permite
+conservar un historial de quién, cómo y cuándo se modificó el proyecto; comparar distintas 
+implementaciones; mantener el control de los cambios realizados; revertir modificaciones no 
+deseadas devolviendo el software a un estado anterior; organizar el trabajo mediante ramas 
+independientes; y, en general, aumentar la velocidad y la eficiencia del desarrollo.
+
+A lo largo de las últimas dos décadas, Git se ha consolidado como el sistema de control de 
+versiones más utilizado en el mundo. Su adopción por parte de grandes empresas tecnológicas 
+como Meta, Google y Amazon refleja su relevancia en la industria. Asimismo, el crecimiento 
+continuo de los repositorios colaborativos ha demostrado la eficacia del control de versiones 
+como una herramienta fundamental para el desarrollo de todo tipo de software.
